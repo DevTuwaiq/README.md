@@ -1,2 +1,3 @@
 # README.md
-For hand on activty
+For hand on activity
+First commit!
